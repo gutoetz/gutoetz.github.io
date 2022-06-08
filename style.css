@@ -1,0 +1,32 @@
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  color: white;
+  background-color: #06283d;
+  border-radius: 80%;
+}
+p {
+  font-family: monospace;
+  background-color: #1363df;
+}
+body {
+  background-color: #dff6ff;
+}
+.listagem {
+  background-color: #1363df;
+}
+.lista1 {
+  font-family: monospace;
+  font-size: 30px;
+  text-align: initial;
+}
+.lista2 {
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+}
+.lista3 {
+  font-family: monospace;
+  font-size: 15px;
+  text-align: end;
+}
