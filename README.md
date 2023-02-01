@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hii, it's a pleasure to have you here, Welcome!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hello, it's a pleasure to have you here, Welcome!
 
 <img width="100%" src="https://media.licdn.com/dms/image/D4D16AQEz4eg644zyZg/profile-displaybackgroundimage-shrink_350_1400/0/1672339724653?e=1680739200&v=beta&t=R2sdtlCP9fkw6I_1Mw4Kn94q2juBR6MxqvLUMFAxXsQ" alt="banner, will ad later">
 
@@ -61,7 +61,3 @@
 <a href="https://www.instagram.com/gutoetz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="mailto:gutoetz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
-<div>
-![Snake animation](https://github.com/gutoetz/gutoetz/blob/output/github-contribution-grid-snake.svg)
-<div>
